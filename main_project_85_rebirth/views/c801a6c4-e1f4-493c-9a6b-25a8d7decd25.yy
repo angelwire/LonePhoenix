@@ -1,0 +1,33 @@
+{
+    "id": "c801a6c4-e1f4-493c-9a6b-25a8d7decd25",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "c801a6c4-e1f4-493c-9a6b-25a8d7decd25",
+    "children": [
+        "2535bd3a-d9c5-45e0-939e-abdc8e21e0f6",
+        "022a4a5c-9474-447c-8945-64796e59007e",
+        "1128a7ec-2702-4c9e-afbb-efda2ea2f5e8",
+        "835fbe97-af6b-4a2e-b45b-f05af9abce02",
+        "6ddbaaca-23a6-4353-856b-8d5e0540f29c",
+        "ee93e27e-ff9b-48b4-a104-17af6663eb60",
+        "b816e96a-b619-475e-beb5-b8dccfaadd64",
+        "352d1707-8dc3-44cc-9fbd-c6c78dc4f902",
+        "f7c618c3-50c4-4d1f-a2d1-f05ff7ade758",
+        "b85df7f3-f6e6-43dd-ab2f-a291efeba931",
+        "d210f0e3-df4e-433a-9d12-501fdb3ed909",
+        "cf993953-b2e1-41c1-96c1-4d288941221d",
+        "2a67cf9c-a027-48eb-ae15-428d8b852649",
+        "394967d7-8932-45e4-aa3c-2a84c84a93d6",
+        "e4744e43-4df8-49f5-a046-1d6adb33568f",
+        "fa6f323d-acf3-4db8-b1e3-3ff1cb2d7ec6",
+        "3fa16ca4-e876-4a65-97bf-1d2ce6499b57",
+        "82242454-c64c-45f3-89c2-414e474b60a6",
+        "3de11593-d301-4c0f-9586-c5645b2ff10d",
+        "92259f93-8260-4e49-8e4b-97501f3801e2",
+        "5b4303ed-fa16-4e2c-9414-e972356bc2b6"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Ground Backgrounds",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

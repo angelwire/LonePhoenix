@@ -1,0 +1,1 @@
+init_door(144,104,secondary_cave)

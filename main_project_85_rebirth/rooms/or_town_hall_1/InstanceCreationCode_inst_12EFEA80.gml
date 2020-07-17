@@ -1,0 +1,1 @@
+init_door(144,230,or_cave)

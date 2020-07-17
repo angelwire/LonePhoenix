@@ -1,0 +1,1 @@
+room_start_background_music();

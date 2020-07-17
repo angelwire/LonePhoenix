@@ -1,0 +1,32 @@
+{
+    "id": "1b67e61f-4547-432f-82ef-df5dd9bd55cc",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "1b67e61f-4547-432f-82ef-df5dd9bd55cc",
+    "children": [
+        "be6223fc-1f8b-487b-a498-20dadcc6e0f8",
+        "1afd1dca-34fe-4a23-9c2d-cf1d5bd47be5",
+        "2bae13e3-705f-4c33-bfe4-c80b6358ad16",
+        "f1fbee35-e875-4e40-99c4-3582826d0d2e",
+        "a6864d02-a5b3-4886-81cd-e9be0c43cdf0",
+        "9e95ef21-725a-4f22-8444-e03c33c3a94d",
+        "b1c7820f-2def-40a1-884c-5ad14380a9fb",
+        "5661bb29-fd29-4334-a3ee-ba9281731508",
+        "9f88e4a8-5a9f-4bf6-b154-a94075eeb1ec",
+        "0f483aa9-fab9-4948-9d21-4b207a03aaf0",
+        "bd02108b-358b-45b1-8cd1-94ccca405fd1",
+        "2f0a4969-7aa5-4f82-a0e9-829c28c3c798",
+        "40e86ba3-e793-44c1-adc6-fb2392614763",
+        "72987e05-3a72-49c8-b02f-7add59cececd",
+        "e2b35003-bf78-454b-89c6-062acec5caea",
+        "67f4cdd1-4647-4135-b588-5c4922ef72e7",
+        "384aa7e4-9b3a-4c17-9529-1abf02dbf515",
+        "c89a4405-f684-4b7c-9b35-18c7535451d1",
+        "1fd48393-bfa4-4a27-900a-146e8f5cdcd2",
+        "8ef460b0-791e-4d13-a5ea-1e0c122a7dee"
+    ],
+    "filterType": "GMTileSet",
+    "folderName": "Ground Backgrounds",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

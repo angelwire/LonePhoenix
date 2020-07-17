@@ -1,0 +1,4 @@
+return @"Report on the ferocious snake:  We'd always wondered why the savage animals didn't follow us into the cave, now we know.  Whatever disease that they're affected with causes their body to need sunlight in order to survive.  As soon as we brought the captured snake into the cave it began to shrivel and die.  This peculiar characteristic may have saved human civilization at one point, but it makes studying live specimens very difficult.  I'll need to find a way to keep them alive in the cave.
+
+Editor's Note: This is report written to the town's first mayor by Hosa Morndez.  He was killed while trying to capture more animals shortly after writing this report.  With his death the town lost its most prominent scientist.  There have been very few studies made on any animals since his tragic death.";
+

@@ -1,0 +1,31 @@
+{
+    "id": "4799c114-bf65-47ce-a409-900a119c6359",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "4799c114-bf65-47ce-a409-900a119c6359",
+    "children": [
+        "44da556d-bfe9-40f0-a7c8-bf6270c1b1ab",
+        "2e6e29ad-fe04-42d2-a1cb-0f2040d23c74",
+        "99b76b0c-1fb8-424a-9c83-cbe135ab6080",
+        "b6f718b9-40a1-4d48-8b19-5f25d096c88e",
+        "a859837c-c5b8-427c-84ab-7719df805df5",
+        "0f63009e-39e5-4ddb-93a1-a8827b11a277",
+        "4a445cc9-ce2a-4e7c-9c82-bbabf1856ea6",
+        "277fbde4-1796-452c-a0f1-16669a90ba5f",
+        "af4b79ff-4024-4aab-8cbc-78ebafe2ec14",
+        "a1ce348d-7d72-436f-adc2-e0f8dd43a712",
+        "5f5a40e3-8da9-4c42-acf8-34921914073c",
+        "a04f8b17-a0d9-47d5-8665-05abceb3ea28",
+        "889885bc-2548-4d10-b9f9-6887bce56a19",
+        "5af00255-6327-4760-b1c9-744fb0dd660a",
+        "f3dcfc5d-a845-4b10-acd5-becd405ab5c2",
+        "c67609b0-1190-4907-8930-c92500513784",
+        "cdf28f4f-589e-4667-87df-6257798791f2",
+        "0b04db63-0978-4fe5-9f0a-038653781851",
+        "86858772-fa35-4b4e-a67f-efc1f03defff"
+    ],
+    "filterType": "GMScript",
+    "folderName": "NPC Pathing",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

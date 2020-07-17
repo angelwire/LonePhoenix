@@ -1,0 +1,1 @@
+init_actionly_receiver(0,0,5,.5,door_open_sound);
